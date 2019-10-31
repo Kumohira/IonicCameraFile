@@ -1,1 +1,12 @@
+.image-container {
+  min-height: 200px;
+  background-size: cover;
+}
 
+.images {
+  column-count: 3;
+}
+
+.one-image {
+  margin: 1px;
+}
